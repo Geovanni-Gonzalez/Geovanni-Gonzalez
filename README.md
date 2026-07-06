@@ -16,12 +16,13 @@ I enjoy projects that connect theory with usable software: compilers, data struc
 
 | Project | Focus | Stack |
 | --- | --- | --- |
-| [gga-soluciones](https://github.com/Geovanni-Gonzalez/gga-soluciones) | Business website and service presentation | React, Vite, i18n |
 | [Rescue-Pet](https://github.com/Geovanni-Gonzalez/Rescue-Pet) | Pet rescue platform with frontend and backend | TypeScript, Node.js, React |
-| [Generacion-Codigo-Destino-MIPS](https://github.com/Geovanni-Gonzalez/Generacion-Codigo-Destino-MIPS) | Compiler backend and MIPS target generation | Java, Maven |
-| [Analisis-Semantico-y-Generacion-de-Codigo-Intermedio](https://github.com/Geovanni-Gonzalez/Analisis-Semantico-y-Generacion-de-Codigo-Intermedio) | Semantic analysis and intermediate code | Java, Maven |
 | [Match-3](https://github.com/Geovanni-Gonzalez/Match-3) | Multiplayer game architecture | React, TypeScript, Node.js |
 | [VisualizadorDeGrafos-GUI-App](https://github.com/Geovanni-Gonzalez/VisualizadorDeGrafos-GUI-App) | Graph visualization and algorithms | C++, Qt, CMake |
+| [LuikiKart-WebApp](https://github.com/Geovanni-Gonzalez/LuikiKart-WebApp) | Real-time multiplayer racing game | React, Node.js, WebSocket |
+| [MiniWaze-GUI-App](https://github.com/Geovanni-Gonzalez/MiniWaze-GUI-App) | Route planning and graph navigation simulator | Python, GUI, algorithms |
+| [BlackJack-WebApp](https://github.com/Geovanni-Gonzalez/BlackJack-WebApp) | Blackjack web app with AI experiments | Python, Flask |
+| [Laberinto-WebApp](https://github.com/Geovanni-Gonzalez/Laberinto-WebApp) | Maze generation and solving workflows | Python, algorithms |
 
 ## Technical Stack
 
@@ -51,4 +52,3 @@ Most public repositories are being maintained with:
 
 - GitHub: [@Geovanni-Gonzalez](https://github.com/Geovanni-Gonzalez)
 - Portfolio and project updates: available through pinned repositories
-
