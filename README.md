@@ -19,10 +19,9 @@ I enjoy projects that connect theory with usable software: compilers, data struc
 | [Rescue-Pet](https://github.com/Geovanni-Gonzalez/Rescue-Pet) | Pet rescue platform with frontend and backend | TypeScript, Node.js, React |
 | [Match-3](https://github.com/Geovanni-Gonzalez/Match-3) | Multiplayer game architecture | React, TypeScript, Node.js |
 | [VisualizadorDeGrafos-GUI-App](https://github.com/Geovanni-Gonzalez/VisualizadorDeGrafos-GUI-App) | Graph visualization and algorithms | C++, Qt, CMake |
-| [LuikiKart-WebApp](https://github.com/Geovanni-Gonzalez/LuikiKart-WebApp) | Real-time multiplayer racing game | React, Node.js, WebSocket |
 | [MiniWaze-GUI-App](https://github.com/Geovanni-Gonzalez/MiniWaze-GUI-App) | Route planning and graph navigation simulator | Python, GUI, algorithms |
+| [LuikiKart-WebApp](https://github.com/Geovanni-Gonzalez/LuikiKart-WebApp) | Real-time multiplayer racing game | React, Node.js, WebSocket |
 | [BlackJack-WebApp](https://github.com/Geovanni-Gonzalez/BlackJack-WebApp) | Blackjack web app with AI experiments | Python, Flask |
-| [Laberinto-WebApp](https://github.com/Geovanni-Gonzalez/Laberinto-WebApp) | Maze generation and solving workflows | Python, algorithms |
 
 ## Technical Stack
 
